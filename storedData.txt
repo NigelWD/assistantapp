@@ -1,0 +1,7 @@
+Instagram, post pictures and videos, org1, iPhone, instagram.com, 1.0.5, 0.0
+Snapchat, send pictures and videos to friends, org1, iPhone, snapchat.com, 2.2.4, 0.99
+Facebook, communicate with friends and update status, org3, android, facebook.com, 5.1.3, 1.99
+Twitter, send tweets for the world to see, org2, iPhone, twitter.com, 13.4.9, 0.0
+TikTok, share short video clips with friends, org2, iPhone, tiktok.com, 23.2.0, 0.99
+Flappy Bird, help your bird avoid obstacles, org3, android, flappybird.com, 4.4.2, 1.99
+Venmo, send and request money from friends, org4, android, venmo.com, 9.1.3, 0.0
